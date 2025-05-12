@@ -1,5 +1,6 @@
 # 10.17556-erziefd.1404346
-hlm-erzincan
+
+I re-visualized the data from an article I had previously published. The *.R files in the original-plots folder were used to create the figures in the article. The *.R files in the better-plots folder were used to redesign the same figures. Additionally, I added the appendix dataset from the article to the repository.
 
 
 ## Citation
